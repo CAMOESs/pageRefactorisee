@@ -242,6 +242,11 @@ body {
   /* トップページのメニューリストには別途paddingの設定（マルチクラス） */
   padding-bottom: 50px;
 }
+/*me*/
+.menu_item_1{
+  width: 100% !important;
+}
+/*meend*/
 
 .menu_item {
   width: 49%;
